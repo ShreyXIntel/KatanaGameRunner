@@ -1,0 +1,255 @@
+C:\Katana>python Katana_launcher.py
+
+    ===================================================
+
+
+    ██╗  ██╗ █████╗ ████████╗ █████╗ ███╗   ██╗ █████╗
+    ██║ ██╔╝██╔══██╗╚══██╔══╝██╔══██╗████╗  ██║██╔══██╗
+    █████╔╝ ███████║   ██║   ███████║██╔██╗ ██║███████║
+    ██╔═██╗ ██╔══██║   ██║   ██╔══██║██║╚██╗██║██╔══██║
+    ██║  ██╗██║  ██║   ██║   ██║  ██║██║ ╚████║██║  ██║
+    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+
+
+    ===================================================
+
+
+🎮 Available Games:
+
+1. cs2
+
+Select a game to run (1/2/3...): 1
+
+ ██████╗ ██████╗ ██╗   ██╗███╗   ██╗████████╗███████╗██████╗     ███████╗████████╗██████╗ ██╗██╗  ██╗███████╗    ██████╗
+██╔════╝██╔═══██╗██║   ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗    ██╔════╝╚══██╔══╝██╔══██╗██║██║ ██╔╝██╔════╝    ╚════██╗
+██║     ██║   ██║██║   ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝    ███████╗   ██║   ██████╔╝██║█████╔╝ █████╗       █████╔╝
+██║     ██║   ██║██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗    ╚════██║   ██║   ██╔══██╗██║██╔═██╗ ██╔══╝      ██╔═══╝
+╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║   ██║   ███████╗██║  ██║    ███████║   ██║   ██║  ██║██║██║  ██╗███████╗    ███████╗
+ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝    ╚══════╝
+
+📦 ======= Katana CS2 Benchmark Automation ========
+
+
+⏱️ ===== Starting Run 0 (Duration Measurement) =====
+🚀 [Launch] Launching CS2 via Steam...
+⏳ [Wait] Waiting for CS2 main screen to appear...
+✅ [Detect] Match found at (962, 21) with confidence 0.97
+✅ [Wait] Main screen detected.
+🧭 [Navigate] Clicking PLAY and selecting game mode...
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\play_tab.png
+✅ [Detect] Match found at (962, 21) with confidence 0.97
+✅ [Click] Clicked at (985, 33)
+🧱 [Step 1] Looking for 'Workshop Maps' tab...
+✅ [Detect] Match found at (978, 82) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\workshop_tab.png
+✅ [Detect] Match found at (978, 82) with confidence 1.00
+✅ [Click] Clicked at (1033, 87)
+🗺️ [Step 2] Selecting CS2 FPS Benchmark map...
+✅ [Detect] Match found at (256, 129) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\cs2_fps_benchmark.png
+✅ [Detect] Match found at (256, 129) with confidence 1.00
+✅ [Click] Clicked at (356, 269)
+🎯 [Step 3] Clicking GO to start benchmark...
+✅ [Detect] Match found at (1668, 1021) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\go_button.png
+✅ [Detect] Match found at (1668, 1021) with confidence 1.00
+✅ [Click] Clicked at (1686, 1031)
+🏁 [Benchmark] Starting benchmark session...
+🧠 Waiting for benchmark to visually begin...
+⚠️ [Detect] No match found (max confidence 0.72)
+⚠️ [Detect] No match found (max confidence 0.72)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.70)
+⚠️ [Detect] No match found (max confidence 0.71)
+⚠️ [Detect] No match found (max confidence 0.73)
+⚠️ [Detect] No match found (max confidence 0.73)
+✅ [Detect] Match found at (1059, 516) with confidence 0.88
+✅ [Benchmark] Visual start confirmed.
+📥 [Run 0] Capturing benchmark duration...
+⚠️ [Detect] No match found (max confidence 0.60)
+⚠️ [Detect] No match found (max confidence 0.67)
+⚠️ [Detect] No match found (max confidence 0.71)
+⚠️ [Detect] No match found (max confidence 0.54)
+⚠️ [Detect] No match found (max confidence 0.64)
+⚠️ [Detect] No match found (max confidence 0.60)
+⚠️ [Detect] No match found (max confidence 0.46)
+⚠️ [Detect] No match found (max confidence 0.65)
+⚠️ [Detect] No match found (max confidence 0.63)
+⚠️ [Detect] No match found (max confidence 0.61)
+⚠️ [Detect] No match found (max confidence 0.60)
+⚠️ [Detect] No match found (max confidence 0.28)
+⚠️ [Detect] No match found (max confidence 0.40)
+⚠️ [Detect] No match found (max confidence 0.71)
+⚠️ [Detect] No match found (max confidence 0.62)
+⚠️ [Detect] No match found (max confidence 0.64)
+⚠️ [Detect] No match found (max confidence 0.64)
+⚠️ [Detect] No match found (max confidence 0.63)
+⚠️ [Detect] No match found (max confidence 0.58)
+⚠️ [Detect] No match found (max confidence 0.74)
+⚠️ [Detect] No match found (max confidence 0.69)
+⚠️ [Detect] No match found (max confidence 0.64)
+⚠️ [Detect] No match found (max confidence 0.68)
+⚠️ [Detect] No match found (max confidence 0.40)
+⚠️ [Detect] No match found (max confidence 0.63)
+⚠️ [Detect] No match found (max confidence 0.65)
+⚠️ [Detect] No match found (max confidence 0.63)
+⚠️ [Detect] No match found (max confidence 0.73)
+⚠️ [Detect] No match found (max confidence 0.61)
+⚠️ [Detect] No match found (max confidence 0.69)
+⚠️ [Detect] No match found (max confidence 0.62)
+⚠️ [Detect] No match found (max confidence 0.64)
+⚠️ [Detect] No match found (max confidence 0.62)
+⚠️ [Detect] No match found (max confidence 0.69)
+✅ [Detect] Match found at (1403, 560) with confidence 0.93
+⏱️ [Run 0] Benchmark duration: 106.92 seconds
+📸 Screenshot saved to: logs\screenshots\cs2_benchmark_result_run0_20250505_044416.png
+🧹 [Teardown] Initiating cs2 shutdown sequence...
+🗙 [Teardown] Closing the console...
+✅ [Detect] Match found at (1207, 106) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\console_close_x.png
+✅ [Detect] Match found at (1207, 106) with confidence 1.00
+✅ [Click] Clicked at (1210, 110)
+🔋 [Teardown] Clicking the power icon...
+✅ [Detect] Match found at (207, 21) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\power_button.png
+✅ [Detect] Match found at (207, 21) with confidence 1.00
+✅ [Click] Clicked at (218, 32)
+🚪 [Teardown] Clicking Quit to exit CS2...
+✅ [Detect] Match found at (1052, 596) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\quit_button.png
+✅ [Detect] Match found at (1052, 596) with confidence 1.00
+✅ [Click] Clicked at (1067, 605)
+✅ [Teardown] CS2 exited.
+🧊 Cooling down for 120 seconds...
+
+
+📊 ===== Starting Run 1 =====
+🚀 [Launch] Launching CS2 via Steam...
+⏳ [Wait] Waiting for CS2 main screen to appear...
+✅ [Detect] Match found at (962, 21) with confidence 0.99
+✅ [Wait] Main screen detected.
+🧭 [Navigate] Clicking PLAY and selecting game mode...
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\play_tab.png
+✅ [Detect] Match found at (962, 21) with confidence 0.99
+✅ [Click] Clicked at (985, 33)
+🧱 [Step 1] Looking for 'Workshop Maps' tab...
+✅ [Detect] Match found at (978, 82) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\workshop_tab.png
+✅ [Detect] Match found at (978, 82) with confidence 1.00
+✅ [Click] Clicked at (1033, 87)
+🗺️ [Step 2] Selecting CS2 FPS Benchmark map...
+✅ [Detect] Match found at (256, 129) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\cs2_fps_benchmark.png
+✅ [Detect] Match found at (256, 129) with confidence 1.00
+✅ [Click] Clicked at (356, 269)
+🎯 [Step 3] Clicking GO to start benchmark...
+✅ [Detect] Match found at (1668, 1021) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\go_button.png
+✅ [Detect] Match found at (1668, 1021) with confidence 1.00
+✅ [Click] Clicked at (1686, 1031)
+🏁 [Benchmark] Starting benchmark session...
+🧠 Waiting for benchmark to visually begin...
+⚠️ [Detect] No match found (max confidence 0.72)
+⚠️ [Detect] No match found (max confidence 0.72)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.70)
+⚠️ [Detect] No match found (max confidence 0.70)
+⚠️ [Detect] No match found (max confidence 0.73)
+⚠️ [Detect] No match found (max confidence 0.73)
+⚠️ [Detect] No match found (max confidence 0.73)
+✅ [Detect] Match found at (1079, 529) with confidence 0.88
+✅ [Benchmark] Visual start confirmed.
+📥 [Run 1] Timed collection: sleeping for 106.92s + 7s buffer...
+📸 Screenshot saved to: logs\screenshots\cs2_benchmark_result_run1_20250505_044916.png
+🧹 [Teardown] Initiating cs2 shutdown sequence...
+🗙 [Teardown] Closing the console...
+✅ [Detect] Match found at (1207, 106) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\console_close_x.png
+✅ [Detect] Match found at (1207, 106) with confidence 1.00
+✅ [Click] Clicked at (1210, 110)
+🔋 [Teardown] Clicking the power icon...
+✅ [Detect] Match found at (207, 21) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\power_button.png
+✅ [Detect] Match found at (207, 21) with confidence 1.00
+✅ [Click] Clicked at (218, 32)
+🚪 [Teardown] Clicking Quit to exit CS2...
+✅ [Detect] Match found at (1052, 596) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\quit_button.png
+✅ [Detect] Match found at (1052, 596) with confidence 1.00
+✅ [Click] Clicked at (1067, 605)
+✅ [Teardown] CS2 exited.
+🧊 Cooling down for 120 seconds...
+
+
+📊 ===== Starting Run 2 =====
+🚀 [Launch] Launching CS2 via Steam...
+⏳ [Wait] Waiting for CS2 main screen to appear...
+✅ [Detect] Match found at (962, 21) with confidence 0.98
+✅ [Wait] Main screen detected.
+🧭 [Navigate] Clicking PLAY and selecting game mode...
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\play_tab.png
+✅ [Detect] Match found at (962, 21) with confidence 0.98
+✅ [Click] Clicked at (985, 33)
+🧱 [Step 1] Looking for 'Workshop Maps' tab...
+✅ [Detect] Match found at (978, 82) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\workshop_tab.png
+✅ [Detect] Match found at (978, 82) with confidence 1.00
+✅ [Click] Clicked at (1033, 87)
+🗺️ [Step 2] Selecting CS2 FPS Benchmark map...
+✅ [Detect] Match found at (256, 129) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\cs2_fps_benchmark.png
+✅ [Detect] Match found at (256, 129) with confidence 1.00
+✅ [Click] Clicked at (356, 269)
+🎯 [Step 3] Clicking GO to start benchmark...
+✅ [Detect] Match found at (1668, 1021) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\go_button.png
+✅ [Detect] Match found at (1668, 1021) with confidence 1.00
+✅ [Click] Clicked at (1686, 1031)
+🏁 [Benchmark] Starting benchmark session...
+🧠 Waiting for benchmark to visually begin...
+⚠️ [Detect] No match found (max confidence 0.72)
+⚠️ [Detect] No match found (max confidence 0.72)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.76)
+⚠️ [Detect] No match found (max confidence 0.70)
+⚠️ [Detect] No match found (max confidence 0.70)
+⚠️ [Detect] No match found (max confidence 0.73)
+⚠️ [Detect] No match found (max confidence 0.73)
+⚠️ [Detect] No match found (max confidence 0.73)
+✅ [Detect] Match found at (1076, 530) with confidence 0.88
+✅ [Benchmark] Visual start confirmed.
+📥 [Run 2] Timed collection: sleeping for 106.92s + 7s buffer...
+📸 Screenshot saved to: logs\screenshots\cs2_benchmark_result_run2_20250505_045415.png
+🧹 [Teardown] Initiating cs2 shutdown sequence...
+🗙 [Teardown] Closing the console...
+✅ [Detect] Match found at (1207, 106) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\console_close_x.png
+✅ [Detect] Match found at (1207, 106) with confidence 1.00
+✅ [Click] Clicked at (1210, 110)
+🔋 [Teardown] Clicking the power icon...
+✅ [Detect] Match found at (207, 21) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\power_button.png
+✅ [Detect] Match found at (207, 21) with confidence 1.00
+✅ [Click] Clicked at (218, 32)
+🚪 [Teardown] Clicking Quit to exit CS2...
+✅ [Detect] Match found at (1052, 596) with confidence 1.00
+🖱️ [Click] Searching and clicking: C:\Katana\games\cs2\assets\quit_button.png
+✅ [Detect] Match found at (1052, 596) with confidence 1.00
+✅ [Click] Clicked at (1067, 605)
+✅ [Teardown] CS2 exited.
+✅ All runs complete.
+
+
+C:\Katana>
